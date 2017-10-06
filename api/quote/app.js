@@ -11,7 +11,6 @@ const express = require('express');
 const app = express();
 
 /**
- * 
  * @param request
  * @param response
  */
@@ -30,7 +29,6 @@ app.get('/api/quote/random', (request, response) => {
 });
 
 /**
- * 
  * @param request
  * @param response
  */
